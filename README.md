@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This is a fully responsive, interactive web portfolio to showcase my projects, certifications, skills, and contact information.
 
-Live Demo 👉 [View Portfolio][https://jyothirmai-09.github.io/Portfolio/]
+🔗 **Live Demo** 👉 [View Portfolio](https://jyothirmai-09.github.io/portfolio/)
 
 ---
 
@@ -24,3 +24,4 @@ Live Demo 👉 [View Portfolio][https://jyothirmai-09.github.io/Portfolio/]
 - ✅ GitHub Pages (for deployment)
 
 ---
+
